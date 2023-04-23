@@ -1,0 +1,76 @@
+* descartes-first-10-pages
+:PROPERTIES:
+:NOTER_DOCUMENT: descartes-first-10-pages.pdf
+:NOTER_PAGE: 1
+:END:
+
+** Pages summarize
+
+*** Page 0 summary
+:PROPERTIES:
+:NOTER_PAGE: 0
+:END:
+René Descartes' Meditations on First Philosophy is a work that demonstrates the existence of God and the distinction between the human soul and body. It follows a tradition started by Aristotle which uses 'first philosophy' as a label for metaphysics. It was first launched in July 2004 and last amended in April 2007. It contains six meditations: First, Second, Third, Fourth, Fifth and Sixth, which cover topics such as the existence of God, the distinction between the human soul and body, and more.
+
+
+*** Page 1 summary
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+René Descartes' First Meditation is about questioning all beliefs and opinions and starting from the foundations. He proposes that one should withhold assent from propositions that are not completely certain and indubitable. He uses examples of how the senses can deceive us and how dreams can be mistaken for reality. He concludes that one should be aware of the possibility of being deceived and to question all beliefs.
+
+
+*** Page 2 summary
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+René Descartes doubts the reliability of distinguishing between being awake and being asleep, and questions the existence of an all-powerful God. He concludes that any of his former beliefs may be doubtful and that he must withhold his assent in order to discover any certainty.
+
+
+*** Page 3 summary
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+In the Second Meditation, René Descartes examines the nature of the human mind and how it is better known than the body. He doubts his former beliefs and decides to pretend they are false and imaginary in order to break the habit of confidently assenting to them. He supposes that a malicious, powerful, and cunning demon has done all he can to deceive him. He considers himself as having no hands, eyes, flesh, blood, or senses, and he resolves to be on his guard against accepting any falsehoods. He compares himself to a prisoner who dreams of being free, but is content to stay in his old opinions. He concludes that he must struggle in the darkness of the problems he has raised.
+
+
+*** Page 4 summary
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+Rene Descartes' Second Meditation is an argument between two people, Hopeful and Doubtful, about the existence of certainty. Hopeful suggests that there may be something that is certain, and Doubtful questions this. Hopeful then suggests that if he is the author of his own thoughts, then he must exist. Doubtful then questions this, as he has previously stated that he has no senses or body. Hopeful then states that even if he is being deceived, he still exists. The two then conclude that the proposition "I am, I exist" must be true. They then discuss what this "I" is, and decide that it is a man with a body and soul.
+
+
+*** Page 5 summary
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+Rene Descartes' Second Meditation discusses the idea that a body can be perceived by touch, sight, hearing, taste or smell, and can be moved in various ways. He then goes on to discuss the features of the soul, such as nutrition, movement, sense-perception, and thinking. He concludes that he is simply a thing that thinks, and is a mind, soul, intellect, or reason. He then uses his imagination to see if he is anything more, and decides that imagination is suspect and should not be relied upon. He ultimately concludes that he is a thing that thinks, doubts, understands, affirms, denies, wants, refuses, imagines, and senses.
+
+
+*** Page 6 summary
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+Rene Descartes' Second Meditation explores the nature of the self and the wax example is used to illustrate that the self is not defined by the senses. He concludes that the wax was not the sweetness of the honey, the scent of the flowers, the whiteness, the shape, or the sound, but was rather a body that was understood clearly.
+
+
+*** Page 7 summary
+:PROPERTIES:
+:NOTER_PAGE: 7
+:END:
+In Rene Descartes' Second Meditation, he examines the nature of wax and concludes that it is not revealed by imagination, but is perceived by the mind alone. He is amazed at how prone to error his mind is, and realizes that knowledge of the wax comes from the perception of the mind alone, not from what the eye sees. He concludes that he is aware of his own self in a truer and more certain way than he is of the wax.
+
+
+*** Page 8 summary
+:PROPERTIES:
+:NOTER_PAGE: 8
+:END:
+Rene Descartes' Second Meditation discusses how he comes to the conclusion that he exists. He uses sight, touch, and other considerations to perceive the wax and understand his own mind more distinctly. He concludes that bodies are perceived not by the senses or imagination, but by the intellect alone. He wants to pause and meditate on this new knowledge to fix it more deeply in his memory.
+
+
+*** Page 9 summary
+:PROPERTIES:
+:NOTER_PAGE: 9
+:END:
+Rene Descartes' Third Meditation focuses on the concept of God and the Latin adjectives clarus and distinctus, which correspond to the French adjectives clair and distinct and the English adjectives 'vivid' and 'clear'. Descartes argues that the usual translation of 'clear' and 'distinct' is wrong and that clarus should be interpreted as 'bright' or
